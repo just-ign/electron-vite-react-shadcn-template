@@ -22,8 +22,8 @@ A modern desktop application template built with Electron, Vite, React, TypeScri
 
 ```bash
 # Clone the repository (or download the zip)
-git clone https://github.com/yourusername/your-electron-app.git
-cd your-electron-app
+https://github.com/just-ign/electron-vite-react-shadcn-template
+cd electron-vite-react-shadcn-template
 
 # Install dependencies
 npm install
